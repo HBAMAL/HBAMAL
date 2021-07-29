@@ -1,6 +1,6 @@
 ### HI BRO 👋
 
-🌱 I’m currently learning ... JAVA
+🌱 I’m currently learning ... JAVA\n
 LEARNED PYTHON
 
 <p align="center">
