@@ -7,5 +7,6 @@ LEARNED PYTHON
 <img src="https://github-readme-stats.vercel.app/api?username=hbamal&theme=lowcontrast" align="center">
 </p>
 
+<h4 align="left"><img src="https://komarev.com/ghpvc/?username=Itz-fork&style=flat-square&color=39FF14"></h4>
 
 
