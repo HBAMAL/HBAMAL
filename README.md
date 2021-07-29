@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hbamaltrue&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hbamal&theme=highcontrast" align="center">
 </p>
-![Hirusha-H's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-hbamal&show_icons=true&theme=tokyonight)
